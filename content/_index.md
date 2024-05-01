@@ -10,9 +10,10 @@ design:
 sections:
   - block: hero
     content:
-      title: Estructura y dinámica social 
-      text: Escuela de verano del laboratorio de humanidades y ciencias sociales computacionales
-      text: 25-28 de Junio de 2024
+      title: Estructura y dinámica social
+      text: <p style="color:white"; font-size:60px;> <b>25-28 de Junio de 2024</b></p>
+
+         <p style="color:white"; font-size:40px;>Escuela de verano del laboratorio de humanidades y ciencias sociales computacionales</p>
       primary_action:
         text: Registro
         url: https://hugoblox.com/templates/
@@ -50,6 +51,7 @@ sections:
         - name: Fecha de inicio de la Escuela
           icon: bolt
           description: 25 de Junio de 2024
+
   - block: cta-image-paragraph
     id: solutions
     content:
@@ -70,6 +72,7 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
+
   - block: testimonials
     id: location
     content:
@@ -100,16 +103,20 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
       columns: '2'
 
-  - block: cta-card
+  - block: features
+    id: organizadores
     content:
-      title: Build your future-proof website
-      text: As easy as 1, 2, 3!
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+      title: Comité organizador
+      items:
+        - name: Dr. Antonio Antonio Motilla Chávez
+          icon: bolt
+          description: Facultad del Hábitad - UASLP
+        - name: Dr. Edgardo Ugalde
+          icon: bolt
+          description: Instituto de Física UASLP
+        - name: Dr. Edgardo Galán Vásquez
+          icon: bolt
+          description: Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas - UNAM
+
+  
 ---

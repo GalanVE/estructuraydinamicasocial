@@ -15,6 +15,5 @@ main:
   - name: Ubicación
     url: /#location
     weight: 40
-  - parent: Organizadores
-    name: Blog
-    url: blog/
+  - name: Contacto
+    url: /#organizadores
