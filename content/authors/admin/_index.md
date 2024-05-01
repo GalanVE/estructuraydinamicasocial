@@ -1,9 +1,7 @@
 ---
 # Display name
-title: 吳健雄
+title: Escuela de verano del laboratorio de humanidades y ciencias sociales computacionales
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Shiung Wu
