@@ -108,15 +108,20 @@ sections:
     content:
       title: Comité organizador
       items:
-        - name: Dr. Antonio Antonio Motilla Chávez
-          icon: bolt
+        - name: Dr. José Antonio Motilla Chávez
+          icon: my-uaslp
+          icon_pack: custom
           description: Facultad del Hábitad - UASLP
         - name: Dr. Edgardo Ugalde
-          icon: bolt
+          icon: my-uaslp
+          icon_pack: custom
           description: Instituto de Física UASLP
         - name: Dr. Edgardo Galán Vásquez
-          icon: bolt
+          icon: iimaslogo
+          icon_pack: custom
           description: Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas - UNAM
+
+
 
   
 ---
