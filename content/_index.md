@@ -16,7 +16,7 @@ sections:
          <p style="color:white"; font-size:40px;>Escuela de verano del laboratorio de humanidades y ciencias sociales computacionales</p>
       primary_action:
         text: Registro
-        url: https://hugoblox.com/templates/
+        url: https://docs.google.com/forms/d/e/1FAIpQLSerckMK947imyvo8ZgKdE-EPCB3bMCRmFZFe24CIZ83KqBv3g/viewform?usp=sf_link
         icon: rocket-launch
       
     design:
