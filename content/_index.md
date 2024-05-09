@@ -40,16 +40,16 @@ sections:
       text: Fechas importantes
       items:
         - name: Apertura del registro
-          icon: bolt
+          icon: calendar
           description: 15 de Mayo de 2024
         - name: Fecha limite del registro
-          icon: bolt
-          description: 29 de Mayo de 2024
-        - name: Confirmación de aceptacion
-          icon: bolt
-          description: 30 de Mayo de 2024
+          icon: calendar
+          description: 07 de Junio de 2024
+        - name: Notificación de aceptación
+          icon: calendar
+          description: 10 de Junio de 2024
         - name: Fecha de inicio de la Escuela
-          icon: bolt
+          icon: calendar
           description: 25 de Junio de 2024
 
   - block: cta-image-paragraph
@@ -64,54 +64,46 @@ sections:
             - "Procesamiento de lenguaje natural"
             - "Historiografía"
           # Upload image to `assets/media/` and reference the filename here
-          image: build-website.png
+          image: horario.png
           button:
             text: Material de referencia
-            url: https://hugoblox.com/templates/
+            url: 
         
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-
-  - block: testimonials
+    
+  - block: markdown
     id: location
     content:
       title: "Ubicacion de las seciones"
-      text: ""
-      address:
-        street: Circuito Escolar
-        city: Ciudad Universitaria
-        region: Ciudad de México
-        postcode: '04510'
-        country: México
-        country_code: MX
-      directions: Third level, office 304.
-      office_hours:
-        - 'Monday 09:00 to 16:30'
-        - 'Tuesday 09:00 to 16:30'
-        - 'Wednesday 09:00 to 16:30'
-        - 'Thursday 09:00 to 16:30'
-        - 'Friday 09:00 to 16:30'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '19.33027'
-        longitude: '-99.18066'  
-      # Automatically link email and phone or display as text?
-      autolink: true
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      columns: '2'
+      subtitle: Faultad del Hábitad - Universidad Autónoma de San Luís Potosí
+      text:
+        <pre>
+          Facultad del Hábitad - Universidad Autónoma de San Luís Potosí
+
+          Av. Niño Artillero 150, Zona Universitaria, 78290 San Luis Potosí, S.L.P.
+        </pre>
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d957.1083972225258!2d-101.01427912682814!3d22.142868972626268!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842a98ce1f07db65%3A0xe86ada8a5f638fcc!2sFacultad%20del%20H%C3%A1bitat!5e1!3m2!1ses-419!2smx!4v1715219726328!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
   - block: features
     id: organizadores
     content:
       title: Comité organizador
       items:
-        - name: Dr. José Antonio Motilla Chávez
+        - name: Dra. Karla Flores Zarur
           icon: my-uaslp
           icon_pack: custom
-          description: Facultad del Hábitad - UASLP
+        - name: Mtro. Andres Raymundo Zuccolotto Villalobos
+          icon: my-uaslp
+          icon_pack: custom
+        - name: Dr. Manuel Guerrero Salinas
+          icon: my-uaslp
+          icon_pack: custom
+        - name: Erendida Cristina Mancilla
+          icon: my-uaslp
+          icon_pack: custom
         - name: Dr. Edgardo Ugalde
           icon: my-uaslp
           icon_pack: custom
@@ -120,7 +112,16 @@ sections:
           icon: iimaslogo
           icon_pack: custom
           description: Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas - UNAM
+        - name: Dr. José Antonio Motilla Chávez
+          icon: my-uaslp
+          icon_pack: custom
+          description: Facultad del Hábitad - UASLP
 
+  - block: markdown
+    content:
+      text: 
+        <img class="special-img-class" src="/logos.png" width="400" height="800" />
+---
 
 
   
