@@ -120,7 +120,8 @@ sections:
   - block: markdown
     content:
       text: 
-        <img class="special-img-class" src="/logos.png" width="400" height="800" />
+        <img class="special-img-class" src="./logos.png" width="400" height="800" />
+        
 ---
 
 
