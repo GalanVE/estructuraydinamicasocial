@@ -29,7 +29,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: imagen1.jpeg
+          filename: cartel_test01.png
           filters:
             brightness: 0.5
   
