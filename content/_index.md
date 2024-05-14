@@ -14,6 +14,9 @@ sections:
       text: <p style="color:white"; font-size:60px;> <b>25-28 de Junio de 2024</b></p>
 
          <p style="color:white"; font-size:40px;>Escuela de verano del laboratorio de humanidades y ciencias sociales computacionales</p>
+
+         <a href="./convocatoria.pdf" style="font-size:110%;color:white;background-color:#1F79EB;">Convocatoria</a>
+
       primary_action:
         text: Registro
         url: https://docs.google.com/forms/d/e/1FAIpQLSerckMK947imyvo8ZgKdE-EPCB3bMCRmFZFe24CIZ83KqBv3g/viewform?usp=sf_link
@@ -31,7 +34,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: cartel_test01.png
           filters:
-            brightness: 0.5
+            brightness: 0.45
   
   - block: features
     id: features
@@ -80,7 +83,7 @@ sections:
       subtitle: Faultad del Hábitad - Universidad Autónoma de San Luís Potosí
       text:
         <pre>
-          Facultad del Hábitad - Universidad Autónoma de San Luís Potosí
+          Facultad del Hábitat - Universidad Autónoma de San Luís Potosí
 
           Av. Niño Artillero 150, Zona Universitaria, 78290 San Luis Potosí, S.L.P.
         </pre>
@@ -101,7 +104,7 @@ sections:
         - name: Dr. Manuel Guerrero Salinas
           icon: my-uaslp
           icon_pack: custom
-        - name: Erendida Cristina Mancilla
+        - name: Dra. Erendida Cristina Mancilla
           icon: my-uaslp
           icon_pack: custom
         - name: Dr. Edgardo Ugalde
