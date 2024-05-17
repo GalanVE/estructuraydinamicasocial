@@ -13,7 +13,7 @@ sections:
       title: Estructura y dinámica social
       text: <p style="color:white"; font-size:60px;> <b>25-28 de Junio de 2024</b></p>
 
-         <p style="color:white"; font-size:40px;>Escuela de verano del laboratorio de humanidades y ciencias sociales computacionales</p>
+         <p style="color:white"; font-size:40px;>Escuela de verano del Laboratorio de Estructuras y Dinámicas Sociales</p>
 
          <a href="./convocatoria.pdf" style="font-size:110%;color:white;background-color:#1F79EB;">Convocatoria</a>
 
