@@ -15,11 +15,10 @@ sections:
 
          <p style="color:white"; font-size:40px;>Escuela de verano del Laboratorio de Estructuras y Dinámicas Sociales</p>
 
-         <a href="./convocatoria.pdf" style="font-size:110%;color:white;background-color:#1F79EB;">Convocatoria</a>
 
       primary_action:
-        text: Registro
-        url: https://docs.google.com/forms/d/e/1FAIpQLSerckMK947imyvo8ZgKdE-EPCB3bMCRmFZFe24CIZ83KqBv3g/viewform?usp=sf_link
+        text: PROGRAMA
+        url: "cartel_EscuelaVerano.pdf"
         icon: rocket-launch
       
     design:
@@ -80,15 +79,17 @@ sections:
     id: location
     content:
       title: "Ubicacion de las seciones"
-      subtitle: Faultad del Hábitad - Universidad Autónoma de San Luís Potosí
+      subtitle: Instituto de Física - Universidad Autónoma de San Luís Potosí
       text:
         <pre>
-          Facultad del Hábitat - Universidad Autónoma de San Luís Potosí
+          Sala 414
 
-          Av. Niño Artillero 150, Zona Universitaria, 78290 San Luis Potosí, S.L.P.
+          Instituto de Física - Universidad Autónoma de San Luís Potosí
+
+          Av. Chapultepec 1570, Privadas del Pedregal, C.P. 78295. San Luis Potosí, S.L.P.
         </pre>
 
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d957.1083972225258!2d-101.01427912682814!3d22.142868972626268!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842a98ce1f07db65%3A0xe86ada8a5f638fcc!2sFacultad%20del%20H%C3%A1bitat!5e1!3m2!1ses-419!2smx!4v1715219726328!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39856.562056704766!2d-101.01822560264485!3d22.13112266562984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842a98d23dad93ad%3A0xcef2639e89e088f2!2sInstituto%20de%20F%C3%ADsica%20UASLP!5e0!3m2!1ses-419!2smx!4v1718688544557!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
   - block: features
     id: organizadores
