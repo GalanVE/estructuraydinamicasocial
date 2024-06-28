@@ -61,7 +61,7 @@ sections:
         - title: Temas
           text: Se impartiran tres talleres que aboradan los siguientes tópicos
 
-                <p style="color:black"; font-size:60px;> <b>Teoría de gráficas</b>
+                <p style="color:black"; font-size:80px;> <b>Teoría de gráficas</b>
                   <a href="https://github.com/martinzh/intro_redes">
                   <button style="background-color:red; border-color:blue; color:white">Material</button>
                   </a>
@@ -75,7 +75,7 @@ sections:
 
                 <p style="color:black"; font-size:60px;> <b>Historiografía</b>
                   <a href="">
-                  <button style="background-color:red; border-color:blue; color:white">Material</button>
+                  <button style="background-color:green; border-color:blue; color:white">Material</button>
                   </a>
                 </p>
                 
