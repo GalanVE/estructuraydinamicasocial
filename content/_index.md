@@ -60,16 +60,33 @@ sections:
       items:
         - title: Temas
           text: Se impartiran tres talleres que aboradan los siguientes tópicos
+
+                <p style="color:black"; font-size:60px;> <b>Teoría de gráficas</b>
+
+                </p>
+                <p style="color:black"; font-size:60px;> <b>Procesamiento de lenguaje natural</b>
+                 <a href="https://github.com/orlandxrf/escuela-verano" style="color:red"> Material</a>
+                </p>
+
+                <p style="color:black"; font-size:60px;> <b>Historiografía</b>
+
+                </p>
+                
+
+                
+
+               
+
+                
+
+                
+
           feature_icon: check
           features:
-            - "Teoría de gráficas"
-            - "Procesamiento de lenguaje natural"
-            - "Historiografía"
+ 
           # Upload image to `assets/media/` and reference the filename here
           image: horario.png
-          button:
-            text: Material de referencia
-            url: 
+
         
     design:
       # Section background color (CSS class)
