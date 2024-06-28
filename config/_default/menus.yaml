@@ -9,7 +9,7 @@ main:
   - name: Calendario
     url: /#features
     weight: 20
-  - name: Horario
+  - name: Horario-Material
     url: /#solutions
     weight: 30
   - name: Ubicación

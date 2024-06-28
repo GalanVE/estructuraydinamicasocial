@@ -62,23 +62,23 @@ sections:
           text: Se impartiran tres talleres que aboradan los siguientes tópicos
 
                 <p style="color:black"; font-size:60px;> <b>Teoría de gráficas</b>
-
+                  <a href="https://github.com/martinzh/intro_redes">
+                  <button style="background-color:red; border-color:blue; color:white">Material</button>
+                  </a>
                 </p>
-                <p style="color:black"; font-size:60px;> <b>Procesamiento de lenguaje natural</b>
-                 <a href="https://github.com/orlandxrf/escuela-verano" style="color:red"> Material</a>
+                <p style="color:black"; font-size:80px;> <b>Procesamiento de lenguaje natural</b>
+
+                  <a href="https://github.com/orlandxrf/escuela-verano">
+                  <button style="background-color:red; border-color:blue; color:white">Material</button>
+                  </a>
                 </p>
 
                 <p style="color:black"; font-size:60px;> <b>Historiografía</b>
-
+                  <a href="">
+                  <button style="background-color:red; border-color:blue; color:white">Material</button>
+                  </a>
                 </p>
                 
-
-                
-
-               
-
-                
-
                 
 
           feature_icon: check
